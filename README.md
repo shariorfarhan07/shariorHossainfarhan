@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shariorHossainfarhan
-- 👀 I’m interested in robotics, flying drone, travalluinge 
+- 👀 I’m interested in robotics, flying drone, traval.
 - 🌱 I’m currently learning deep learning & spring framework. 
 - 📫 How to reach me md.sharior.hossain.farhan@g.bracu.ac.bd
 
